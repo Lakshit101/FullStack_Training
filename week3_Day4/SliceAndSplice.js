@@ -1,8 +1,8 @@
- //splice
-// const arr=[5,4,6,9];
-// const splicearr=arr.splice(1);
-// console.log(splicearr);
-// console.log(arr);
+//  splice
+const arr=[5,4,6,9];
+const splicearr=arr.splice(1);
+console.log(splicearr);
+console.log(arr);
 //splice original m change karta h or slice nhi(delete k liye kaam ata h)
 
 
